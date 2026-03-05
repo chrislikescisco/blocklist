@@ -1,97 +1,70 @@
 [Adblock Plus]
-! Title: HaGeZi's Pro DNS Blocklist
-! Description: Big broom - Cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Crytojacking and other "Crap".
-! Homepage: https://github.com/hagezi/dns-blocklists
-! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
-! Issues: https://github.com/hagezi/dns-blocklists/issues
-! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
-! Expires: 1 day
-! Last modified: 04 Mar 2026 22:21 UTC
-! Version: 2026.0304.2221.34
-! Syntax: AdBlock
-! Number of entries: 172984
-!
+
+||ads.stickyadstv.com^
+||freewheel.tv^
+||spotx.tv^
+||spotxchange.com^
+||innovid.com^
+||rtr.innovid.com^
+||tremorhub.com^
+||tremorvideo.com^
+||ads.pubmatic.com^
+||ads.openx.net^
+||ads.rubiconproject.com^
+||ads.smartadserver.com^
+||ads.contextweb.com^
+||ads.media.net^
+||ads.revcontent.com^
+
 ||doubleclick.net^
-||ad.doubleclick.net^
-||securepubads.g.doubleclick.net^
-||pagead2.googlesyndication.com^
 ||googlesyndication.com^
-||googleads.g.doubleclick.net^
 ||googleadservices.com^
-||adservice.google.com^
-||adservice.google.ca^
-||adservice.google.co.uk^
-
 ||amazon-adsystem.com^
-||aax.amazon-adsystem.com^
-||c.amazon-adsystem.com^
-||s.amazon-adsystem.com^
-||mads.amazon-adsystem.com^
-
 ||adsystem.amazon.com^
-||fls-na.amazon.com^
 
 ||adsrvr.org^
 ||thetradedesk.com^
-||insight.adsrvr.org^
 
-||spotx.tv^
-||spotxchange.com^
-
-||freewheel.tv^
-||ads.stickyadstv.com^
-
-||innovid.com^
-||rtr.innovid.com^
-
-||tremorhub.com^
-||tremorvideo.com^
+||stickyadstv.com^
 
 ||pubmatic.com^
-||ads.pubmatic.com^
 
 ||openx.net^
-||delivery.openx.net^
 
 ||rubiconproject.com^
-||ads.rubiconproject.com^
 
 ||contextweb.com^
+
 ||media.net^
 
 ||taboola.com^
-||trc.taboola.com^
 
 ||outbrain.com^
-||widgets.outbrain.com^
 
 ||smartadserver.com^
-||smartadsserver.com^
 
 ||adform.net^
-||track.adform.net^
 
 ||casalemedia.com^
+
 ||adnxs.com^
-||ib.adnxs.com^
 
 ||yieldmo.com^
 
 ||moatads.com^
-||z.moatads.com^
 
 ||scorecardresearch.com^
-||sb.scorecardresearch.com^
 
 ||nielsen.com^
+
 ||imrworldwide.com^
 
 ||comscore.com^
 
 ||criteo.com^
-||bidder.criteo.com^
 
 ||lijit.com^
+
 ||revcontent.com^
 
 ||adcolony.com^
@@ -99,12 +72,12 @@
 ||chartboost.com^
 
 ||unityads.unity3d.com^
+
 ||unityads.unity.com^
 
 ||vungle.com^
 
 ||applovin.com^
-||rt.applovin.com^
 
 ||ironsource.com^
 
@@ -117,8 +90,6 @@
 ||inmobi.com^
 
 ||mopub.com^
-
-||ads.mopub.com^
 
 ||fyber.com^
 
@@ -138,8 +109,6 @@
 
 ||quantserve.com^
 
-||pixel.quantserve.com^
-
 ||branch.io^
 
 ||appsflyer.com^
@@ -156,13 +125,9 @@
 
 ||mixpanel.com^
 
-||api.mixpanel.com^
-
 ||amplitude.com^
 
 ||segment.io^
-
-||cdn.segment.com^
 
 ||segment.com^
 
@@ -172,19 +137,9 @@
 
 ||analytics.google.com^
 
-||ssl.google-analytics.com^
-
 ||google-analytics.com^
 
 ||stats.g.doubleclick.net^
-
-||api2.branch.io^
-
-||api.appsflyer.com^
-
-||events.appsflyer.com^
-
-||sdk.iad-01.braze.com^
 
 ||braze.com^
 
@@ -202,134 +157,24 @@
 
 ||kochava.net^
 
-||kochava.com^
-
-||tracking.adjust.com^
-
-||app.adjust.com^
-
-||analytics.adjust.com^
-
-||events.adjust.com^
-
-||mobile-events.eservice.emarsys.net^
-
 ||branchmetrics.com^
-
-||links.branch.io^
 
 ||bnc.lt^
 
-||cdn.branch.io^
-
-||a.applovin.com^
-
-||d.applovin.com^
-
-||prod-events.applovin.com^
-
-||track.applovin.com^
-
-||events.applovin.com^
-
-||ads.inmobi.com^
-
-||sdkm.w.inmobi.com^
-
-||api.inmobi.com^
-
-||ads.chartboost.com^
-
-||live.chartboost.com^
-
-||tracking.chartboost.com^
-
-||ads.tapjoy.com^
-
-||ws.tapjoyads.com^
-
-||beacon.tapjoy.com^
-
-||ads.vungle.com^
-
-||events.vungle.com^
-
-||tracking.vungle.com^
-
-||ads.unityads.unity3d.com^
-
-||auction.unityads.unity3d.com^
-
-||config.unityads.unity3d.com^
-
-||ads.ironsrc.com^
-
-||events.ironsrc.com^
-
-||track.ironsrc.com^
-
-||ads.startapp.com^
-
-||req.startappservice.com^
-
-||imp.startappservice.com^
-
-||ads.pubmatic.com^
-
-||hbopenbid.pubmatic.com^
-
-||ads.openx.net^
-
-||us-east.ads.openx.net^
-
-||ads.smartadserver.com^
-
-||cdn.smartadserver.com^
-
-||sync.smartadserver.com^
-
-||pixel.rubiconproject.com^
-
-||fastlane.rubiconproject.com^
-
-||ads.contextweb.com^
-
-||sync.contextweb.com^
-
-||ads.media.net^
-
-||track.media.net^
-
-||ads.revcontent.com^
-
-||trends.revcontent.com^
-
-||cdn.revcontent.com^
+||disneyadvertising.com^
 
 ||ads.lijit.com^
 
-||ce.lijit.com^
-
-||pixel.advertising.com^
-
-||adserver.adtech.de^
-
-||track.adroll.com^
-
-||d.adroll.com^
-
-||s.adroll.com^
-
-||pixel.serving-sys.com^
-
-||bs.serving-sys.com^
-
 ||ads.yieldmo.com^
 
-||cdn.yieldmo.com^
+||ads.tapjoy.com^
 
-||track.yieldmo.com^
-||disney-dostepwstrzymany.com^
-||disney-problemzabonamentem.com^
-||disney-statusplatnosci.com^
-||disneyadvertising.com^
+||ads.chartboost.com^
+
+||ads.vungle.com^
+
+||ads.ironsrc.com^
+
+||ads.startapp.com^
+
+||ads.inmobi.com^
